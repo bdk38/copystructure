@@ -1,5 +1,5 @@
-module github.com/mitchellh/copystructure
+module github.com/bdk38/copystructure
 
-go 1.15
+go 1.x
 
-require github.com/mitchellh/reflectwalk v1.0.2
+require github.com/bdk38/reflectwalk v1.0.3
